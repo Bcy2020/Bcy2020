@@ -48,10 +48,4 @@ Currently, I’m focused on refining the MVP of Agent Chronos v2.0, with a focus
 
 Feel free to reach out if you’re interested in multi-Agent systems, AI-aided software engineering, or collaborating on Agent Chronos!
 
-📌 [GitHub](https://github.com/Bcy2020) | 📧 [Your Email (Optional)]
-
----
-
-“The best way to predict the future of AI engineering is to build it—with rigor, purpose, and a focus on what matters: reliable, scalable systems.”
-
-> （注：文档部分内容可能由 AI 生成）
+📌 [GitHub](https://github.com/Bcy2020) | 📧 [samurazdenko@gmail.com]
