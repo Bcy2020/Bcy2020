@@ -48,4 +48,4 @@ Currently, I’m focused on refining the MVP of Agent Chronos v2.0, with a focus
 
 Feel free to reach out if you’re interested in multi-Agent systems, AI-aided software engineering, or collaborating on Agent Chronos!
 
-📌 [GitHub](https://github.com/Bcy2020) | 📧 [samurazdenko@gmail.com]
+📌 [GitHub](https://github.com/Bcy2020) | 📧 [xuanmingbao2009@gmail.com]
